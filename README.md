@@ -45,10 +45,10 @@ Paid Royalty Free Music
 
 | Site       | License            | Price
 | ------------- |:---------------------------:| -----:| 
-| [Premium Beat]()|--|Track basic|
-| [Audio Jungle]()|--|Track basic|
-| [Music Bed]()|--|Track basic|
-| [Audio Network]()|--|Track basic|
+| [Premium Beat]()|--|Track basis|
+| [Audio Jungle]()|--|Track basis|
+| [Music Bed]()|--|Track basis|
+| [Audio Network]()|--|Track basis|
 | [Sound Stripe]()|--|Subscriiption|
 | [Audio Blocks]()|--|Subscriiption|
 | [Art List]()|--|199$/year|
