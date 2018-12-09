@@ -45,14 +45,14 @@ Paid Royalty Free Music
 
 | Site       | License            | Price
 | ------------- |:---------------------------:| -----:| 
-| [Premium Beat]()|--|Track basis|
-| [Audio Jungle]()|--|Track basis|
-| [Music Bed]()|--|Track basis|
-| [Audio Network]()|--|Track basis|
-| [Sound Stripe]()|--|Subscriiption|
-| [Audio Blocks]()|--|Subscriiption|
-| [Art List]()|--|199$/year|
-| [Epidemic Sound]()|only youtube|15$/month|
+| [Premium Beat](https://www.premiumbeat.com/)|--|Track basis|
+| [Audio Jungle](https://audiojungle.net/)|--|Track basis|
+| [Music Bed](https://www.musicbed.com/)|--|Track basis|
+| [Audio Network](https://www.audionetwork.com/)|--|Track basis|
+| [Sound Stripe](https://soundstripe.com/)|--|Subscriiption|
+| [Audio Blocks](https://www.audioblocks.com/)|--|Subscriiption|
+| [Art List](https://artlist.io/)|--|199$/year|
+| [Epidemic Sound](https://www.epidemicsound.com/)|only youtube|15$/month|
 
 
 
