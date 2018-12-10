@@ -53,6 +53,22 @@ Paid Royalty Free Music
 | [Audio Blocks](https://www.audioblocks.com/)|--|Subscriiption|
 | [Art List](https://artlist.io/)|--|199$/year|
 | [Epidemic Sound](https://www.epidemicsound.com/)|only youtube|15$/month|
+| [Music vine](https://musicvine.com/)|--|--|
+| [Marmoset Music](https://www.marmosetmusic.com/)|--|--|
+| [Song Freedom](https://www.songfreedom.com/landing)|--|--|
+| [Jamendo](https://www.jamendo.com/)|--|--|
+| [Bensound](https://www.bensound.com/)|--|--|
+| [Ricall](https://ricall.com/music-licensing)|--|--|
+| [Productiontrax](https://www.productiontrax.com/)|--|--|
+| [Addictive Tracks](http://www.addictivetracks.com/)|--|--|
+| [The Musicase](https://www.themusicase.com/)|--|--|
+| [Mobygratis](https://mobygratis.com/)|--|--|
+
+
+
+
+
+
 
 
 
